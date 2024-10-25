@@ -1,10 +1,10 @@
 "use client"; // Client Component
 
 import { useEffect, useState } from "react";
-import ContactSection from "./components/mainPage/contactSection";
+import ContactSection from "./components/mainPage/ContactSection";
 import ExperienceSection from "./components/mainPage/ExperienceSection";
-import ProfileSection from "./components/mainPage/profileSection";
-import SkillsSection from "./components/mainPage/skillsSection";
+import ProfileSection from "./components/mainPage/ProfileSection";
+import SkillsSection from "./components/mainPage/SkillsSection";
 import TitleSection from "./components/mainPage/TitleSection";
 
 export default function Home() {
