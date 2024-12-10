@@ -1,6 +1,6 @@
 export const title = {
   name: "Talal Qasem",
-  title: "Web application Developer",
+  jobTitle: "Web Application Developer",
   subTitle: "Frontend developer with experience in UX",
 };
 export const contact = {
