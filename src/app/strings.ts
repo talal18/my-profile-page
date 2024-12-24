@@ -43,6 +43,8 @@ export const experience = [
       "Participated in grooming and prioritizing backlog tickets",
       "Mentored Junior React developers",
     ],
+    logo: "../assets/ross-video-logo.png",
+    website: "https://www.rossvideo.com/",
   },
   {
     company: "Airmeez (Marine Rescue Technologies)",
@@ -61,6 +63,8 @@ export const experience = [
       "Used Jira to track issues and provide detailed project related documentation Continuously collaborated and provided consultation with various teams to scope out limitations and refine metrics",
       "Effectively groomed and prioritized backlog tickets",
     ],
+    logo: "../assets/airmeez-logo.png",
+    website: "https://www.airmeez.com/",
   },
   {
     company: "QuickTo Solutions",
@@ -74,6 +78,8 @@ export const experience = [
       "Participated in developing the clinic dashboard using ReactJS",
       "Directed UX and design for the entire project",
     ],
+    logo: "../assets/quickto-logo.png",
+    website: "https://m.facebook.com/p/QuickTo-Dentist-100063668856461/",
   },
   {
     company: "Giant Tiger",
@@ -86,5 +92,7 @@ export const experience = [
       "Developed user-friendly interfaces using jQuery, Bootstrap, and Slick",
       "Collaborated in planning and design sessions",
     ],
+    logo: "../assets/giant-tiger-logo.png",
+    website: "https://www.gianttiger.com/",
   },
 ];
