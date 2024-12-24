@@ -4,7 +4,7 @@ import { containerVariantsMoveUp, itemVariantsMoveUp } from "../constants";
 import { title } from "../strings";
 
 const Title = () => {
-  const { name, jobTitle, subTitle } = title;
+  const { name, mainTitle, subTitle } = title;
   return (
     <motion.section
       className="text-center py-20 bg-gradient-to-r from-blue-100 via-blue-50 to-blue-100"
@@ -23,7 +23,7 @@ const Title = () => {
         className="mt-4 text-2xl font-medium text-red-700"
         variants={itemVariantsMoveUp}
       >
-        {jobTitle}
+        {mainTitle}
       </motion.p>
       <motion.p
         className="mt-4 text-xl font-medium text-gray-700"
